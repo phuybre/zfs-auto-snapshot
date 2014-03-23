@@ -1,0 +1,5 @@
+zfs-auto-snapshot (1.0.8-0kangu1) unstable; urgency=low
+
+  * Initial kangu packaging
+
+ -- philippe <philippe@kangu.be>  Sun, 23 Mar 2014 12:04:10 +0100
